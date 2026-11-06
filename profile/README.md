@@ -1,11 +1,7 @@
 # Penguin Foundation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/picaroni-riwi/penguin-foundation/main/assets/logo/logo.png" alt="Penguin Foundation logo" width="180" />
-</p>
-
-<p align="center">
-  <strong>[One sentence about what the foundation does.]</strong>
+  <img src="../img/penguin.jpg" alt="Penguin Foundation logo" width="50%" />
 </p>
 
 ---
